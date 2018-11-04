@@ -191,7 +191,7 @@ class RNN(BaseRNN):
         self.data_vars["in"]["x"].error[:] = dz.dot(self.wi.T)  # pass error to the layer before
         return grads
 
-    s
+
 
 
 
