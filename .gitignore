@@ -3,3 +3,5 @@
 /src/*.egg-info
 /dist
 /tests/*.pkl
+/build
+/venv
