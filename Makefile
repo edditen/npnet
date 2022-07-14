@@ -19,4 +19,4 @@ install:
 
 .PHONY: build
 build:
-	python3 -m pip install .
+	pip install .
